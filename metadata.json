@@ -1,0 +1,6 @@
+{
+  "name": "Vortex VR Combat",
+  "description": "An interactive 3D VR Combat Simulator and companion app featuring escalating tiers, weapons customization, matchmaking lobby, and a Gemini-powered tactical boss support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
